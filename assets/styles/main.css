@@ -1,4 +1,26 @@
-.profile{
+.img-200{
     width: 200px;
     height: 200px;
+}
+.img-circle{
+    border-radius: 100%;
+}
+.bg-black{
+    background-color: #000;
+}
+.font-white{
+    color: #fff;
+}
+.margin-left-10{
+    margin-left: 10%;
+}
+.margin-right-10{
+    margin-right: 10%;
+}
+.margin-10{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
