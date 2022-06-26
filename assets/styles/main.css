@@ -42,3 +42,17 @@ body{
 .font-times-new-roman{
     font-family:'Times New Roman', Times, serif
 }
+.dynamic-undeline-link{
+    text-decoration: none;
+}
+.dynamic-undeline-link:hover{
+    text-decoration: underline;
+}
+span.flip_V{ display: inline-block; margin:1em; } 
+.flip_V{ 
+  transform: scale(1, -1); }
+  .flip_V::first-letter{font-size: 30px;}
+
+  dt{
+    color:yellow;
+  }
